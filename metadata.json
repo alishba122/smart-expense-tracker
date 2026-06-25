@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "A beautiful, premium Smart Expense Tracker with modern Glassmorphism UI, detailed income/expense management, real-time charts, daily/weekly/monthly reports, local reminders, custom dark mode, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
